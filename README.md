@@ -27,3 +27,7 @@ $ gcc -Wall -Werror -Wextra -pedantic ./src/*.c -lm -o maze `sdl2-config --cflag
 
 ## Demo
 https://youtu.be/6T2N8gNUTQ8
+## team
+Abdulrazak Abdulazeez
+## contact
+razak.aa74@gmail.com
